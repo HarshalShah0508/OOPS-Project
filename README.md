@@ -1,1 +1,1 @@
-# OOPS-Project
+Built a GUI-based tool for designing house floor plans with color-coded room types, adjustable dimensions, and validated non-overlapping placements. Enabled insertion of doors, windows, and furniture with spatial checks for accurate layout simulation.Technologies Used: Java, Java Swing, Canva
